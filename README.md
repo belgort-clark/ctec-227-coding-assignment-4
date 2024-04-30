@@ -6,6 +6,7 @@ Here's the assignment details:
 - You must place each problem in a file named problem-x.php where x is the number of the problem.
 - You must include code to test the implementation of the class and it's methods.
 - Your code must be commented.
+- HTML code is not necessary but is encouraged.
 
 ## Problems
 
